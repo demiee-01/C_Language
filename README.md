@@ -27,4 +27,4 @@ This is soft code lab practice in C langauge
 
 **Github**:https://github.com/demiee-01
 
-@creadit demiee 2026
+**Founder** by **demiee** @2026
