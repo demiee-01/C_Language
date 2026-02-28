@@ -25,6 +25,7 @@ This is soft code lab practice in C langauge
 **#8 Arrays**
 **Notion** https://www.notion.so/8-Arrays-314379b2c0d580a3beb2eb2648662e9a?source=copy_link
 
-**Github**:https://github.com/demiee-01
+---
+**Github** :https://github.com/demiee-01
 
 **Founder** by **demiee** @2026
