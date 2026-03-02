@@ -22,8 +22,8 @@ This is soft code lab practice in C langauge
 **#7 Loops**
 **:** https://www.notion.so/7-Loops-314379b2c0d5806c8f6bd4ea2c923dc7?source=copy_link
 
-**- #8 Arrays**
-**:**https://www.notion.so/8-Arrays-314379b2c0d580a3beb2eb2648662e9a?source=copy_link
+**#8 Arrays**
+**:** https://www.notion.so/8-Arrays-314379b2c0d580a3beb2eb2648662e9a?source=copy_link
 
 ---
 **Github** :https://github.com/demiee-01
